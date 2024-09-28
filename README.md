@@ -1,0 +1,1 @@
+my studynote about AI, brain science, math, etcs
