@@ -1,3 +1,8 @@
+---
+tags:
+  - paper
+  - AI
+---
 - Attention : 데이터를 Key-Value-Querry로 나눠 연산
 - Positional Encoding : Sequence 상에서 데이터의 위치를 절대적으로 표현
 ![[Attention is All You Need Full.png]]

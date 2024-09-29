@@ -1,3 +1,8 @@
+---
+tags:
+  - AI
+  - concepts
+---
 ## Basic Positional Encoding
 - 시퀀스 상에서의 위치를 상수로 주입하는 방법
 - 모델의 하이퍼 파라미터와 토큰의 위치에 따라 다르게 결정됨
