@@ -18,6 +18,7 @@ $$
 $$
 ## Various Matrix
 ### Row & Column Martix
+- [[Vector]]를 Matrix의 관점에서 이해
 - **Row Matrix (Row Vector, $\mathbf v$)**
 $$
 \mathbf v = (v_1, v_2, \dots , v_m)
@@ -65,3 +66,10 @@ $$
 - For any matrix $A$, $AA^T$ and $A^TA$ are symmetric
 - For any matrix $A$ and diagonal matrix $D$, $ADA^T$ and $A^TDA$ are symmetric
 -
+## Operations of Matrix
+### Sum / Difference
+- $A,B \in F^{n\times m}$
+$$
+(A \;\pm \;B)_{ij} = A_{ij}\; \pm \; B_{ij}
+$$
+### Mult ![[Matrix Multiplication#Basic Definition]]### Transpose ![[Matrix Transpose#Transpose Matrix]]

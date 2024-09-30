@@ -1,6 +1,6 @@
-- [[Machine Learning#Input Vector ($ mathbf x$)|Input vector]]와 그에 따른 [[[Machine Learning#Target Vector ($ mathbf t$)|target vector]]가 둘다 주어지는 종류의 머신 러닝
-
-## Classification
+## Supervised Learning
+- [[Machine Learning#Input Vector ($ mathbf x$)|Input vector]]와 그에 따른 [[Machine Learning#Target Vector ($ mathbf t$)|target vector]]가 둘다 주어지는 형태의 학습
+### Classification
 - target vector가 이산적인 방법으로 표현됨
 - ex: 긍/부정, 고양이/강아지, 숫자 인식
 ### Regression
