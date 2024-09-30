@@ -6,7 +6,7 @@ tags:
 ## Basic Definition
 - For $A \in F^{n \times l}$ and $B \in F^{l \times m}$,
 $$
-(AB)_{ij} = \sum \limits_{k=1}^{l} A_{ik}B_{kj}
+(AB)_{ij} := \sum \limits_{k=1}^{l} A_{ik}B_{kj}
 $$
 
 ## Equivalence to Matrix Multiplication
